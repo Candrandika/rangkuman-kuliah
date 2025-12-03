@@ -234,6 +234,36 @@ Mustadh'afin adalah **`kelompok masyarakat`** yg **`dalam kondisi lemah`**, baik
 
 ## Masjid Segabai Pusat Peradaban Islam
 
+# 6. Masyarakat Madani
+
+## Pengertian
+Masyarakat madani => ***`civil society`*** atau lebih tepat dengan ***`civilized society`***, **`masyarakat sipil yang berlawanan dengan masyarakat militer`**.
+
+Militaristic society => masyarakat yang dibentuk dengan **`otoritarianisme dan fasisme`** untuk **`menguasai rakyatnya`** serta **`tidak ada kebebasan pendapat`** / kritik thd pemerintah.
+
+Masyarakat madani => masyarakat yang menganut sistem sosial berdasarkan prinsip moral yang merekonstruksi sikap menjamin keseimbangan antara kebebasan individu dengan kestaabilan bagi masyarakat
+
+## Karakteristik
+- Bertuhan
+- Damai
+- Toleran / tasamuh
+- BerperadabantTinggi
+- Berakhlak mulia
+- Tolong menolong (ta'awun)
+
+## Pilar-pilar
+- LSM -> institusi sosial yg dibentuk swadaya masyarakat
+- Mass media
+- Hukum
+- Lembaga pendidikan
+- Partai politik
+
+## Strategi Rasulullah Membangun Masyarakat Madani
+- Masjid
+- Mempersatukan Muhajirin dan Anshar
+- Menyatukan umat muslim dan non-muslim
+- Pondasi dalam berbagai aspek (ekonomi, politik, hukum)
+
 # 7. Mazhab Anti Radikalisme
 
 ## Pengertian
@@ -332,7 +362,7 @@ Sesuai dengan apa yang ada pada rukun iman
 - Dalam islam, perbuatan **`korupsi sama dengan fasad`**, yakni **`perbuatan yang merusak tatanan kehidupan`**, yang **`pelakunya melakukan jinayaat al-kubra (dosa besar)`**. **`Korupsi melanggar syariat`**. Syariat bertujuan **`mewujudkan kemaslahatan`** umat manusia dgn apa yg disebut sebagai ***`maqashidussy syaria'ah`***, yang diantara kemaslahatan yang dituju yaitu **`terpeliharanya harta`** dari berbagai bentuk pelanggaran dan penyelewengan.
 - Hukumannya adalah ***`ta'zir`***, yaitu **`hukuman yang dianggap setimpal dan menjerakan`**, dari yang terberat (**`hukuman mati`**) hingga yang teringan (**`penjara`**), sesuai dengan tindakan dan dampak.
 - Hukuman ringannya adalah diberi nasihat &teguran / celaan, masuk daftar tercela, dan dipecat dari jabatan
-- Hukuman beratnya adalah dera / cambuk (39-100x) dan pengasingan.
+- Hukuman beratnya adalah dera / cambuk (39-100&times;) dan pengasingan.
 - Umar bin Khattab pernah menjatuhkan hukuman cambuk 100x dan penjara 1 tahun kpd **`Mu'iz bin Abdullah`** krn **`memalsukan stempel kas negara`** (***`Bayt al-Mal`***) dan mengambil harta tersebut.
 - Penjara maksimal hingga mati
 
