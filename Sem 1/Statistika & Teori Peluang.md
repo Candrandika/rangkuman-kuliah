@@ -275,7 +275,7 @@ Garis regresi merupakan garis linear (hanya taksiran) yang menunjukan pola hubun
 | SST | $SST = Σ{(y_i-\bar y)^2}$ |
 | SSR | $SSR = SST-SSE$ |
 | $R_2$ | $R_2 = 1-\frac{SSE}{SST}$ atau $\frac{SSR}{SST}$ |
-| Koef. Korelasi (r) [Pearson] | $r = \frac{n(Σxy)-(Σx)(Σy)}{\sqrt{[nΣx^2-(Σx)^2][nΣy^2-(Σy)^2]}}$ |
+| Koef. Korelasi (r) [Pearson] | $r = \frac{n(Σxy)-(Σx)(Σy)}{\sqrt{[nΣx^2-(Σx)^2]}\sqrt{[nΣy^2-(Σy)^2]}}$ |
 | Koef. Korelasi (𝜌) [Spearman] | $𝜌 = 1-\frac{6ΣD^2}{n(n^2-1)}$
 | Variansi Residual ($s^2$) | $s^2 = \frac{SSE}{n-2}$ |
 <!-- | Intercept (a) | $a = \frac{ΣyΣx^2-ΣxΣxy}{nΣ{x^2}-(Σ{x})^2}$ | -->
