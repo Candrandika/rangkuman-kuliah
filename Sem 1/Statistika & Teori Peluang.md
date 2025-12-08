@@ -274,7 +274,7 @@ Garis regresi merupakan garis linear (hanya taksiran) yang menunjukan pola hubun
 | SSE | $SSE = Σ{e^2}$ |
 | SST | $SST = Σ{(y_i-\bar y)^2}$ |
 | SSR | $SSR = SST-SSE$ |
-| $R_2$ | $R_2 = 1-\frac{SSR}{SST}$ |
+| $R_2$ | $R_2 = 1-\frac{SSE}{SST}$ atau $\frac{SSR}{SST}$ |
 | Koef. Korelasi (r) [Pearson] | $r = \frac{n(Σxy)-(Σx)(Σy)}{\sqrt{[nΣx^2-(Σx)^2][nΣy^2-(Σy)^2]}}$ |
 | Koef. Korelasi (𝜌) [Spearman] | $𝜌 = 1-\frac{6ΣD^2}{n(n^2-1)}$
 | Variansi Residual ($s^2$) | $s^2 = \frac{SSE}{n-2}$ |
@@ -314,3 +314,4 @@ Residual (selisih nilai asli dan prediksi) seharusnya memiliki distribusi normal
 - Terdapat duplikasi informasi
 - Jika variabel bebas (yg berkorelasi tinggi) berubah, model tidak bisa mengetahui variabel mana yang mempengaruhi variabel terikat
 - Ex: Y => Harga rumah, $X_1$ => Luas tanah, $X_2$ => jumlah kamar (umumnya, luas tanah lebih besar berarti jumlah kamar lebih banyak) [korelasi tinggi]
+
