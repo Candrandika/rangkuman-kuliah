@@ -290,6 +290,12 @@ Mempelajari hubungan satu variabel terikat dengan beberapa variabel bebas.
 - $b_0$ = konstanta
 - $b_1, b_2, ..., b_n$ = koefisien regresi
 
+## 2 Variabel
+- $b_1 = \frac{Σx^2_2Σx_1y - Σx_1x_2Σx_2y}{Σx^2_1Σx^2_2-(Σx_1x_2)^2}$
+
+## Semua
+- $\hat b = (X^TX)^{-1}X^TY$
+
 ## Asumsi pada Regresi Linear Berganda
 
 ### Linearitas
