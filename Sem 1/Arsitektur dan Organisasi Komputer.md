@@ -297,15 +297,15 @@ Piringan budan dari substrat (kaca/aluminium) yang berlapis material megnetik
 - MZR
 
 ### Redundant Array of Independent Disk (RAID)
-| Jenis | Jumlah disk |
-| - | - |
-| 0 | N |
-| 1 | 2N |
-| 2 | N+M |
-| 3 | N+1 |
-| 4 | N+1 |
-| 5 | N+1 |
-| 6 | N+2 |
+| Jenis | Jumlah disk | Deskripsi |
+| - | - | - |
+| 0 | N | Non-redundant |
+| 1 | 2N | Mirroring |
+| 2 | N+M | hamming code |
+| 3 | N+1 | bit parity |
+| 4 | N+1 | block parity |
+| 5 | N+1 | block distributed parity |
+| 6 | N+2 | block dual distributed parity |
 
 ## Solid State Drive
 
