@@ -200,3 +200,27 @@ $
 - Notasi: $det(A)$ atau $|A|$
 - det: $\mathbb{R}^{n*n}$ -> $\mathbb{R}$ yang memetakan matriks persegi ke bilangan real
 
+
+# Ruang Vektor Euclid
+
+- Dinotasikan sebagai $\mathbb{R}^n$
+- Memiliki besar dan arah
+- Merepresentasikan pergeseran dari satu titik ke titik lain
+- pergeseran dinotasikan sebagai $v = \overrightarrow{AB}$
+- vektor yang punya arah dan panjang sama dinamakan ekuivalen
+
+
+## Operasi Vektor
+
+mis:
+- $\vec{u} = (u_1, u_2, ..., u_n)$
+- $\vec{v} = (v_1, v_2, ..., v_n)$
+
+maka: 
+- $\vec{u} ± \vec{v} = (u_1 ± v_1, u_2 ± v_2, ..., u_n ± v_n)$
+- $\overrightarrow{uv} = \vec{v} - \vec{u}$
+- $||u|| = \sqrt{u_1^2 + u_2^2 + ... + u_n^2}$
+- $||u - v|| = \sqrt{(u_2-u_1)^2 + ... + (u_n-v_n)^2}$
+- $k \times \vec{u} = (ku_1, ku_2, ..., ku_n)$
+- $\vec{u} \cdot \vec{v} = u_1v_1 + u_2v_2 + ... + u_nv_n$
+- $\vec{u} \cdot \vec{v} = ||u|| ||v|| cos\theta$ (dot product)
